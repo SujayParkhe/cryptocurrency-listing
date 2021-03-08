@@ -31,7 +31,7 @@ function App() {
           <h1>Welcome to Crypto Listing</h1>
         </header>
         <p className="crypto-intro">
-          Crytocurrency coin information will be listed below.
+          Cryptocurrency coin information will be listed below.
         </p>
       </div>
       <div className="coin-search">
